@@ -74,3 +74,6 @@ from covid c
 join covidvacc cv
 on c.location=cv.location
 and c.date=cv.date
+
+Select *
+From PercentPopulationVaccinated
