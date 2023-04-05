@@ -1,16 +1,14 @@
 ## Covid Portfolio Project
-This project providing basic data of Covid. It`s focused on Covid cases and deaths in Europe.  
-The project based on data from https://ourworldindata.org/covid-deaths since the beginning of the pandemic up until 20 December 2022.
+This project provides basic data on COVID-19, focusing on cases and deaths in Europe. The project is based on data from https://ourworldindata.org/covid-deaths from the beginning of the pandemic up until December 20, 2022.
 
 
 #### Project Purpose:
-* Presentation of the total infection rate in individual European countries (relative to population)
-* Presentation of countries with the highest deaths by country
-* Showing the increase in the total infections cases over time
+The purpose of the project is to present the total infection rate in individual European countries relative to their population, 
+to present countries with the highest number of deaths per country, and to show the increase in total infection cases over time.
 
 #### The tools I used:
-  * Microsoft SQL Server management studio to explore data
-  * Tablou Public for visualization
+  * Microsoft SQL Server management studio for exploring the data
+  * Tableau Public for visualization
   * Microsoft Excel for data cleaning
   
   
